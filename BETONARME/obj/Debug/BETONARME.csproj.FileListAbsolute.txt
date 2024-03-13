@@ -1,0 +1,31 @@
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\bin\Debug\BETONARME.exe.config
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\bin\Debug\BETONARME.exe
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\bin\Debug\BETONARME.pdb
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.AssemblyReference.cache
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.Betonarme.resources
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.Properties.Resources.resources
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.GenerateResource.cache
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.CoreCompileInputs.cache
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.exe
+C:\Users\Emrca\Desktop\Göksa Mühendislik\BETONARME\BETONARME\obj\Debug\BETONARME.pdb
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.exe.config
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.exe
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.pdb
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.AssemblyReference.cache
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.Betonarme.resources
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.Properties.Resources.resources
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.GenerateResource.cache
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.CoreCompileInputs.cache
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.exe
+D:\Projelerim\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.pdb
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.exe.config
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.exe
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\bin\Debug\BETONARME.pdb
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.AssemblyReference.cache
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.Betonarme.resources
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.Properties.Resources.resources
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.GenerateResource.cache
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.csproj.CoreCompileInputs.cache
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.exe
+D:\Projeler\GöksaYazilim\BenimProjelerim\BETONARME\BETONARME\obj\Debug\BETONARME.pdb
